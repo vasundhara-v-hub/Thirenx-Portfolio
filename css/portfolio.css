@@ -131,10 +131,7 @@ nav > a {
     letter-spacing: -0.02em;
 }
 
-nav > a::after {
-    content: ".";
-    color: var(--primary);
-}
+
 
 nav ul {
     display: flex;
